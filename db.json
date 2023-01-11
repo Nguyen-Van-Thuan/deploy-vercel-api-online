@@ -1,0 +1,42 @@
+{
+  "product-1": [
+    {
+      "id": 1,
+      "title": "Item 1",
+      "img": "https://bucket.nhanh.vn/store/2071/ps/20221222/ct003__14_.jpg",
+      "price": "44.44"
+    },
+    {
+      "id": 2,
+      "title": "Item 2",
+      "img": "https://img.cdn.vncdn.io/cdn-pos/fb2e20-2071/ps/20230111_xNKIcfiXC86EVRxn.jpg",
+      "price": "44.44"
+    },
+    {
+      "id": 3,
+      "title": "Item 3",
+      "img": "https://img.cdn.vncdn.io/cdn-pos/fb2e20-2071/ps/20230110_OhSQvN0yrMJi3rUy.jpg",
+      "price": "44.44"
+    }
+  ],
+  "product-2": [
+    {
+      "id": 1,
+      "title": "Item 4",
+      "img": "https://bucket.nhanh.vn/store/2071/ps/20221222/ct003__14_.jpg",
+      "price": "44.44"
+    },
+    {
+      "id": 2,
+      "title": "Item 5",
+      "img": "https://img.cdn.vncdn.io/cdn-pos/fb2e20-2071/ps/20230111_xNKIcfiXC86EVRxn.jpg",
+      "price": "44.44"
+    },
+    {
+      "id": 3,
+      "title": "Item 6",
+      "img": "https://img.cdn.vncdn.io/cdn-pos/fb2e20-2071/ps/20230110_OhSQvN0yrMJi3rUy.jpg",
+      "price": "44.44"
+    }
+  ]
+}
